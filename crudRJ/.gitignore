@@ -1,5 +1,6 @@
 estes para ignorar 
 
 backend/.env_prueba
-backend/.venv
+
+crudRJ/backend/.venv_prueba
 
